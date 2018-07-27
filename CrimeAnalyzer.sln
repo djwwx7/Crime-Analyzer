@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeAnalyzer", "CrimeAnalyzer\CrimeAnalyzer.csproj", "{C4BB76AA-5390-458A-90F5-94C2361D1EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4BB76AA-5390-458A-90F5-94C2361D1EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BB76AA-5390-458A-90F5-94C2361D1EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BB76AA-5390-458A-90F5-94C2361D1EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BB76AA-5390-458A-90F5-94C2361D1EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0EEDA4-34F0-4928-92EB-9471B1FAD0F9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Cody\Desktop\Projects\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\Projects\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Desktop\Projects\CrimeAnalyzer\CrimeAnalyzer\bin\Debug\CrimeAnalyzer.exe.config
+C:\Users\Cody\Desktop\Projects\CrimeAnalyzer\CrimeAnalyzer\bin\Debug\CrimeAnalyzer.exe
+C:\Users\Cody\Desktop\Projects\CrimeAnalyzer\CrimeAnalyzer\bin\Debug\CrimeAnalyzer.pdb
+C:\Users\Cody\Desktop\Projects\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.exe
+C:\Users\Cody\Desktop\Projects\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.pdb
